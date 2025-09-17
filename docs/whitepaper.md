@@ -36,3 +36,4 @@ This document provides an overview of Mirror Sync. It is for informational purpo
 - Staking, governance, revenue share; total supply and distribution.
 
 [Add more details as you develop—e.g., diagrams or code snippets.]
+Updated whitepaper with expanded sections.
